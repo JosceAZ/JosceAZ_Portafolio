@@ -7,7 +7,7 @@ function App() {
       {/* Hero Section */}
       <header className="container mx-auto px-4 py-16 flex flex-col items-center text-center section-fade">
         <img 
-          src="/src/public/ose.jpeg"
+          src="/ose.jpeg"
           alt="Professional headshot placeholder"
           className="w-48 h-48 rounded-full object-cover mb-8 border-4 border-blue-500 hover-card"
         />
